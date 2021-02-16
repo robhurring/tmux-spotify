@@ -5,7 +5,7 @@ Tmux plugin that shows the current music status for Spotify, Apple Music, or iTu
 Introduces the following new status variables:
 
 * `#{music_status}`
-* `#{_artist}`
+* `#{artist}`
 * `#{album}`
 * `#{track}`
 
